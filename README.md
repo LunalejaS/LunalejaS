@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🌙 Luna
 
-<!--
-**LunalejaS/LunalejaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! 🩷  
+I'm a Systems Engineering student who loves **art, sports, music**, and seeing things from a different perspective.
+This space is where I share my projects, learning journey, and skills that are constantly growing.  
+  
 
-Here are some ideas to get you started:
+  ## ✨ About Me
+  - Systems Engineering student, always learning and growing  
+  - Passionate about improving my skills in **Java, HTML, CSS, NestJS, and agile methodologies**  
+  
+  
+  ## 💻 Technologies & Tools
+  **Languages:** Java, TypeScript, JavaScript, HTML, CSS  
+  **Frameworks:** NestJS, Node.js  
+  **Tools:** Git & GitHub, Postman, VSCode  
+  **Methodologies:** Agile / Scrum  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ## ✨ Contact
+  - [<img src="https://img.icons8.com/ios-filled/20/FF69B4/linkedin.png"/>](https://www.linkedin.com/in/luna-alejandra-sandoval-rodríguez-8b4563256) LinkedIn: [Luna A. Sandoval](https://www.linkedin.com/in/luna-alejandra-sandoval-rodríguez-8b4563256)
+  
+  - Email: `lunalejasandoval2007@gmail.com`  
+  🩷 Always open to collaborations and shared learning!  
+  
+
+   ## 🌷 Currently Learning
+  - Improving my skills in **NestJS and Java**  
+  - Frontend development with **HTML, CSS, JavaScript/TypeScript**
+
+    
+  ## 📂 Projects
+  [![ServicioCRUD](https://img.shields.io/badge/ServicioCRUD-F7C6CE?style=flat&logo=github&logoColor=555555)](https://github.com/LunalejaS/ServicioCRUD)
+
+  
+  ## ⚙️ Skills
+  [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
