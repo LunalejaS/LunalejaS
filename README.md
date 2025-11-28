@@ -11,7 +11,7 @@ This space is where I share my projects, learning journey, and skills that are c
   
   
   ## 💻 Technologies & Tools
-  **Languages:** Java, TypeScript, JavaScript, HTML, CSS  
+  **Languages:** Java, TypeScript, HTML, CSS  
   **Frameworks:** NestJS, Node.js  
   **Tools:** Git & GitHub, Postman, VSCode  
   **Methodologies:** Agile / Scrum  
