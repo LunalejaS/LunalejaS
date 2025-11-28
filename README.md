@@ -31,6 +31,7 @@ This space is where I share my projects, learning journey, and skills that are c
     
   ## 📂 Projects
   [![ServicioCRUD](https://img.shields.io/badge/ServicioCRUD-F7C6CE?style=flat&logo=github&logoColor=555555)](https://github.com/LunalejaS/ServicioCRUD)
+  [![ServicioCRUD](https://img.shields.io/badge/EduTrack-F7C6CE?style=flat&logo=github&logoColor=555555)]([https://github.com/LunalejaS/ServicioCRUD](https://github.com/LunalejaS/EduTrack.git])
 
   
   ## ⚙️ Skills
